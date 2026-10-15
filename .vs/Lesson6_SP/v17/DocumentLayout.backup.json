@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\c#\\Lesson6_SP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26DB9AA9-C176-45C1-9A71-1F9CBFD557C1}|Lesson6_SP\\Lesson6_SP.csproj|c:\\users\\admin\\desktop\\c#\\lesson6_sp\\lesson6_sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DB9AA9-C176-45C1-9A71-1F9CBFD557C1}|Lesson6_SP\\Lesson6_SP.csproj|solutionrelative:lesson6_sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DB9AA9-C176-45C1-9A71-1F9CBFD557C1}|Lesson6_SP\\Lesson6_SP.csproj|c:\\users\\admin\\desktop\\c#\\lesson6_sp\\lesson6_sp\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DB9AA9-C176-45C1-9A71-1F9CBFD557C1}|Lesson6_SP\\Lesson6_SP.csproj|solutionrelative:lesson6_sp\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DB9AA9-C176-45C1-9A71-1F9CBFD557C1}|Lesson6_SP\\Lesson6_SP.csproj|c:\\users\\admin\\desktop\\c#\\lesson6_sp\\lesson6_sp\\threadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DB9AA9-C176-45C1-9A71-1F9CBFD557C1}|Lesson6_SP\\Lesson6_SP.csproj|solutionrelative:lesson6_sp\\threadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DB9AA9-C176-45C1-9A71-1F9CBFD557C1}|Lesson6_SP\\Lesson6_SP.csproj|c:\\users\\admin\\desktop\\c#\\lesson6_sp\\lesson6_sp\\threaditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DB9AA9-C176-45C1-9A71-1F9CBFD557C1}|Lesson6_SP\\Lesson6_SP.csproj|solutionrelative:lesson6_sp\\threaditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Lesson6_SP\\Lesson6_SP\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "Lesson6_SP\\ConsoleUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Lesson6_SP\\Lesson6_SP\\ConsoleUI.cs*",
+              "RelativeToolTip": "Lesson6_SP\\ConsoleUI.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:45:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Lesson6_SP\\Lesson6_SP\\ThreadManager.cs",
+              "RelativeDocumentMoniker": "Lesson6_SP\\ThreadManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Lesson6_SP\\Lesson6_SP\\ThreadManager.cs",
+              "RelativeToolTip": "Lesson6_SP\\ThreadManager.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:38:20.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThreadItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Lesson6_SP\\Lesson6_SP\\ThreadItem.cs",
+              "RelativeDocumentMoniker": "Lesson6_SP\\ThreadItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Lesson6_SP\\Lesson6_SP\\ThreadItem.cs",
+              "RelativeToolTip": "Lesson6_SP\\ThreadItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:37:54.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Lesson6_SP\\Lesson6_SP\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson6_SP\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Lesson6_SP\\Lesson6_SP\\Program.cs",
+              "RelativeToolTip": "Lesson6_SP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:37:20.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
